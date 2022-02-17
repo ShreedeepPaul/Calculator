@@ -1,0 +1,95 @@
+* {
+    position: relative;
+    margin: auto;
+  }
+  body {
+    margin: auto;
+    background: lightblue;
+    font-family: sans-serif;
+  }
+  #calculator {
+    width: 400px;
+    background-color: rgb(0, 80, 80);
+    font-size: 0px;
+  }
+  #output {
+    width: 400px;
+    min-height: 100px;
+    max-height: 250px;
+    color: white;
+    text-align: right;
+  }
+  #big-output {
+    font-size: 48px;
+  }
+  #previous-answer {
+    font-size: 32px;
+  }
+  button {
+    border: none;
+    width: 100px;
+    height: 100px;
+    border: 0px solid;
+    background-color: white;
+  }
+  button:hover {
+    cursor: pointer;
+    background-color: aliceblue;
+  }
+  #ac {
+    width: 200px;
+    font-size: 32px;
+  }
+  #del {
+    font-size: 32px;
+  }
+  #÷ {
+    font-size: 32px;
+  }
+  #one {
+    font-size: 32px;
+  }
+  #two {
+    font-size: 32px;
+  }
+  #three {
+    font-size: 32px;
+  }
+  #x {
+    font-size: 32px;
+  }
+  #four {
+    font-size: 32px;
+  }
+  #five {
+    font-size: 32px;
+  }
+  #six {
+    font-size: 32px;
+  }
+  #plus {
+    font-size: 32px;
+  }
+  #seven {
+    font-size: 32px;
+  }
+  #eight {
+    font-size: 32px;
+  }
+  #nine {
+    font-size: 32px;
+  }
+  #minus {
+    font-size: 32px;
+  }
+  #zero {
+    font-size: 32px;
+  }
+  #dot {
+    font-size: 32px;
+  }
+  #equal {
+    font-size: 32px;
+    width: 200px;
+  }
+  
